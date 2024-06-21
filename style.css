@@ -1,0 +1,20 @@
+.body{
+background-color: black;    
+
+}
+
+.lstyle{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.pstyle{
+    display: flex;
+    justify-content: space-evenly;
+
+}
+.h6{
+    display: flex;
+    font-size: 14pts;
+    justify-content: space-evenly;
+}
